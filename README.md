@@ -62,6 +62,9 @@ Comando: `Tree`
 
 ![images](Image/5.JPG)
 
+### parametro Package:
+
+El objetivo del parámetro package es empaquetar el código compilado en su formato distribuible, como un JAR.
 
 
 
