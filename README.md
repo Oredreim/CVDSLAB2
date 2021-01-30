@@ -37,3 +37,7 @@ Son cientos o quizás miles de librerías que podemos utilizar para múltiples p
 
 ## Crear un proyecto con Maven
 
+Creamos el proyecto desde consola con el comando:
+`mvn archetype:generate`
+![images](1.jpg)
+
