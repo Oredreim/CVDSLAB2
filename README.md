@@ -1,12 +1,13 @@
 # CVDSLAB2
 
-## Cual es su mayor utilidad?
+## La Herramienta Maven
+### Cual es su mayor utilidad?
 
 Manejar la creación, los informes y la documentación de un proyecto a partir de una pieza central de información.
 
 Consultado en [Apache Maven](https://maven.apache.org/)
 
-## Fases de maven:
+### Fases de maven:
 
 Las fases de Maven son las siguientes:
 1. Validar: Revisar si toda la información necesaria para el constructor esta disponible.
