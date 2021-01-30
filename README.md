@@ -39,5 +39,5 @@ Son cientos o quizás miles de librerías que podemos utilizar para múltiples p
 
 Creamos el proyecto desde consola con el comando:
 `mvn archetype:generate`
-![images](/Image/1.jpg)
+![images](Image/1.JPG)
 
