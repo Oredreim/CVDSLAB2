@@ -48,10 +48,23 @@ Seleccionamos el **grupoid**, **artifactid**, **archetypeArtifactId**
 ![images](Image/2.JPG)
 
 
+
 Comando: `Tree`
 
 ![images](Image/3.JPG)
 
+## Ajustar algunas configuraciones en el proyecto
+
+
+![images](Image/4.JPG)
+
+## Compilar y Ejecutar
+
+![images](Image/5.JPG)
+
+### Parametro Package:
+
+El objetivo del parámetro package es empaquetar el código compilado en su formato distribuible, como un JAR.
 
 
 
