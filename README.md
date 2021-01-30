@@ -48,5 +48,10 @@ Seleccionamos el **grupoid**, **artifactid**, **archetypeArtifactId**
 ![images](Image/2.JPG)
 
 
+Comando: `Tree`
+
+![images](Image/3.JPG)
+
+
 
 
