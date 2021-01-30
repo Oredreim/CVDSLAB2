@@ -20,9 +20,20 @@ Las fases de Maven son las siguientes:
 8. Despliegue: Copiar el paquete en un repositorio local.
 
 ### Ciclos de vida de la construccion:
+
 Maven se basa en el concepto central de un ciclo de vida de construcción. Lo que esto significa es que el proceso para construir y distribuir un artefacto en particular (proyecto) está claramente definido. Para la persona que crea un proyecto, esto significa que solo es necesario aprender un pequeño conjunto de comandos para construir cualquier proyecto Maven, y el POM se asegurará de que obtenga los resultados que desea. Hay tres ciclos de vida de compilación integrados: `default`, `clean`, `site`.
 
 - **Default**: El ciclo de vida default maneja la implementación de su proyecto, gestionando la construcción y despliegue del proyecto.
 - **Clean**: El ciclo de vida clean maneja la limpieza del proyecto, eliminando todos los archivos generados en el proceso de construcción y despliegue.
 - **Site**: El ciclo de vida site maneja la creación de la documentación del sitio de su proyecto.
+
+### Para que sirven los puglins en Maven?
+
+Es donde se realiza parte de la "acción real", los plugins se utilizan para: crear archivos jar, crear archivos war, compilar código, código de prueba unitaria, crear documentación del proyecto, y así sucesivamente. Casi cualquier acción que pueda pensar en realizar en un proyecto se implementa como un complemento de Maven.
+
+### Que es y para que sirve el repositorio central de Maven:
+
+Son cientos o quizás miles de librerías que podemos utilizar para múltiples propósitos y Maven se encarga de aprovechar los recursos que ya existen de la mejor forma para lograr los objetivos propuestos. Es un repositorio que contiene cientos de librerías constantemente actualizadas por sus creadores y sirve para que todos los usuarios puedan buscar versiones recientes o antiguas de un código dado y agregarlas a su proyecto de manera automática (sin que el usuario tenga que hacer más que definir sus dependencias).
+
+
 
