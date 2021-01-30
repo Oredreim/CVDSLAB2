@@ -68,6 +68,8 @@ El objetivo del parámetro package es empaquetar el código compilado en su form
 
 El comando para la ejecucion con maven.
 `mvn exec:java -Dexec.mainClass="edu.eci.cvds.patterns.App"`
+![images](Image/6.JPG)
 
-
+Ejecutar la clase desde línea de comandos enviando su nombre como parámetro y verificar la salida. Ej: Hello Pepito!
+![images](Image/7.JPG)
 
