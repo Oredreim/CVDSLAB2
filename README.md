@@ -66,5 +66,8 @@ Comando: `Tree`
 
 El objetivo del parámetro package es empaquetar el código compilado en su formato distribuible, como un JAR.
 
+El comando para la ejecucion con maven.
+`mvn exec:java -Dexec.mainClass="edu.eci.cvds.patterns.App"`
+
 
 
