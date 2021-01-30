@@ -35,5 +35,5 @@ Es donde se realiza parte de la "acción real", los plugins se utilizan para: cr
 
 Son cientos o quizás miles de librerías que podemos utilizar para múltiples propósitos y Maven se encarga de aprovechar los recursos que ya existen de la mejor forma para lograr los objetivos propuestos. Es un repositorio que contiene cientos de librerías constantemente actualizadas por sus creadores y sirve para que todos los usuarios puedan buscar versiones recientes o antiguas de un código dado y agregarlas a su proyecto de manera automática (sin que el usuario tenga que hacer más que definir sus dependencias).
 
-
+## Crear un proyecto con Maven
 
