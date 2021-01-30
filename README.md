@@ -22,7 +22,7 @@ Las fases de Maven son las siguientes:
 ### Ciclos de vida de la construccion:
 Maven se basa en el concepto central de un ciclo de vida de construcción. Lo que esto significa es que el proceso para construir y distribuir un artefacto en particular (proyecto) está claramente definido. Para la persona que crea un proyecto, esto significa que solo es necesario aprender un pequeño conjunto de comandos para construir cualquier proyecto Maven, y el POM se asegurará de que obtenga los resultados que desea. Hay tres ciclos de vida de compilación integrados: `default`, `clean`, `site`.
 
-- Default: El ciclo de vida default maneja la implementación de su proyecto, gestionando la construcción y despliegue del proyecto.
-- Clean: El ciclo de vida clean maneja la limpieza del proyecto, eliminando todos los archivos generados en el proceso de construcción y despliegue.
-- Site: El ciclo de vida site maneja la creación de la documentación del sitio de su proyecto.
+- **Default**: El ciclo de vida default maneja la implementación de su proyecto, gestionando la construcción y despliegue del proyecto.
+- **Clean**: El ciclo de vida clean maneja la limpieza del proyecto, eliminando todos los archivos generados en el proceso de construcción y despliegue.
+- **Site**: El ciclo de vida site maneja la creación de la documentación del sitio de su proyecto.
 
