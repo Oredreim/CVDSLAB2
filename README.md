@@ -51,7 +51,7 @@ Seleccionamos el **grupoid**, **artifactid**, **archetypeArtifactId**
 
 Comando: `Tree`
 
-
+![images](Image/3.JPG)
 
 ## Ajustar algunas configuraciones en el proyecto
 
