@@ -73,3 +73,24 @@ El comando para la ejecucion con maven.
 Ejecutar la clase desde línea de comandos enviando su nombre como parámetro y verificar la salida. Ej: Hello Pepito!
 ![images](Image/7.JPG)
 
+### ShapeMain:
+
+#### Sin parámetros:
+
+![images](Image/11.JPG)
+
+#### Parámetro: qwerty
+
+![images](Image/10.JPG)
+
+#### Parámetro: pentagon
+
+![images](Image/9.JPG)
+
+#### Parámetro Hexagon
+
+![images](Image/8.JPG)
+
+
+
+
